@@ -1,0 +1,30 @@
+2025-12-17 10:51:18 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\my workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-12-17 10:51:28 INFO  TC_001_AccountRegistrationTest:15 - Starting TC_001_AccountRegistrationTest
+2025-12-17 10:51:28 INFO  TC_001_AccountRegistrationTest:20 - Clicked on My Account 
+2025-12-17 10:51:29 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register 
+2025-12-17 10:51:29 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-12-17 10:51:33 INFO  TC_001_AccountRegistrationTest:41 - Validating expected message..
+2025-12-17 10:51:33 INFO  TC_001_AccountRegistrationTest:46 - Test passed
+2025-12-17 10:51:33 INFO  TC_001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
+2025-12-17 10:51:36 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-12-17 10:51:38 INFO  TC_002_LoginTest:43 - **** Finished TC_002_LoginTest  ****
+2025-12-17 11:02:00 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\my workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-12-17 11:02:03 INFO  TC_001_AccountRegistrationTest:15 - Starting TC_001_AccountRegistrationTest
+2025-12-17 11:02:04 INFO  TC_001_AccountRegistrationTest:20 - Clicked on My Account 
+2025-12-17 11:02:05 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register 
+2025-12-17 11:02:05 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-12-17 11:02:09 INFO  TC_001_AccountRegistrationTest:41 - Validating expected message..
+2025-12-17 11:02:09 INFO  TC_001_AccountRegistrationTest:46 - Test passed
+2025-12-17 11:02:09 INFO  TC_001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
+2025-12-17 11:02:11 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-12-17 11:02:13 INFO  TC_002_LoginTest:43 - **** Finished TC_002_LoginTest  ****
+2025-12-17 11:08:46 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\my workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-12-17 11:08:50 INFO  TC_001_AccountRegistrationTest:15 - Starting TC_001_AccountRegistrationTest
+2025-12-17 11:08:50 INFO  TC_001_AccountRegistrationTest:20 - Clicked on My Account 
+2025-12-17 11:08:50 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register 
+2025-12-17 11:08:50 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-12-17 11:08:52 INFO  TC_001_AccountRegistrationTest:41 - Validating expected message..
+2025-12-17 11:08:52 INFO  TC_001_AccountRegistrationTest:46 - Test passed
+2025-12-17 11:08:52 INFO  TC_001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
+2025-12-17 11:08:54 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-12-17 11:08:56 INFO  TC_002_LoginTest:43 - **** Finished TC_002_LoginTest  ****
